@@ -1,6 +1,6 @@
 ---
 
-# Tier Placeholder Tile
+ **Tier Placeholder Tile**
 
 **Create custom placeholder boxes for TierMaker!**
 
