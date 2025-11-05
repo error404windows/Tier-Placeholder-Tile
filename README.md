@@ -77,4 +77,3 @@ If TierMaker updates their layout (which they will, just to ruin your day), this
 
 ---
 
-That version is copy-paste ready for GitHub. The Greasy Fork image now properly redirects to your script page.
