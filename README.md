@@ -1,4 +1,4 @@
----
+
 
  **Tier Placeholder Tile**
 
@@ -7,7 +7,7 @@
 Tired of having to download and upload images just to label tiers?
 This userscript lets you create **editable placeholder tiles** (text + color + shape) directly on the site and drag them into your tier list instantly.
 
----
+
 
 ## 🧩 Features
 
